@@ -1,0 +1,29 @@
+Enki - A Content Management System
+
+Project goals
+
+Provide a modern CMS that:
+  * Delivers very high-performance pages to end users
+  * Enable dynamic experiences for users without comprosing performance 
+  * Allow site maintainers to easily add/edit content and layouts
+
+Planned features for site mainters:
+  * Easy layout engine 
+  * Role based access 
+  * Easy to use WYSIWYG content editing
+
+Planned features for developers:
+  * Automatic CSS/style optimization
+  * Automatic JavaScript optimization
+  * Automatic local static or CDN deployment
+  * Workflow for pagelets
+  * Cache controls
+  * Layout ordering
+  * Early flush options
+  * Dependency resolution
+
+Default Pagelets:
+  * Free HTML
+  * "Safe" HTML
+  * Commenting system
+  * Images
